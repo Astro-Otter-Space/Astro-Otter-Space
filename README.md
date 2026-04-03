@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **PHP, Symfony and API Platform**
 
+<a href="https://app.daily.dev/astrootter"><img src="https://api.daily.dev/devcards/v2/Dzj0iVfFtTCrEGmarVlDy.png?r=07q&type=wide" width="652" alt="Stephane's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/otter_astro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="otter_astro" height="30" width="40" /></a>
